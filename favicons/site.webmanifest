@@ -1,0 +1,13 @@
+{
+    "name": "CodingTT",
+    "short_name": "CodingTT",
+    "icons": [
+        {
+            "src": "/favicons/icon.png",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#D60270",
+    "background_color": "#0038A8",
+    "display": "standalone"
+}
