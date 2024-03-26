@@ -1,7 +1,12 @@
 html {
-	--sitewide-font: "Anta", sans-serif;
+	--sitewide-font: "Axaxax", sans-serif;
 	--sitewide-font-weight: 400;
 	--sitewide-font-size: 1.625em;
+}
+
+@font-face {
+    font-family: 'Axaxax';
+    src: url('/resources/font/axaxax_bd.otf') format('opentype');
 }
 
 html {
